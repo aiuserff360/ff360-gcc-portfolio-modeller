@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+tsconfig.tsbuildinfo
+# design screenshots and a prototype from another tool stay local
+reference/
+vanilla-prototype/
